@@ -9,6 +9,7 @@ import android.content.IntentFilter
 import android.graphics.Color
 import android.net.Uri
 import android.os.Bundle
+import android.util.Log
 import android.webkit.CookieManager
 import android.webkit.WebChromeClient
 import android.webkit.WebView
@@ -24,6 +25,7 @@ import com.consultantapp.databinding.ActivityWebViewBinding
 import com.consultantapp.utils.*
 import dagger.android.support.DaggerAppCompatActivity
 import javax.inject.Inject
+import kotlin.math.log
 
 
 class WebViewActivity : DaggerAppCompatActivity() {
@@ -72,7 +74,9 @@ class WebViewActivity : DaggerAppCompatActivity() {
             transactionId = intent.getStringExtra(EXTRA_REQUEST_ID) ?: ""
             loadUrl = intent.getStringExtra(PAYMENT_URL) ?: ""
         } else {
-            loadUrl = "${appClientDetails.domain_url}/${intent.getStringExtra(LINK_URL)}"
+            //Log.d("url", LINK_URL)
+            //loadUrl = "${appClientDetails.domain_url}/${intent.getStringExtra(LINK_URL)}"
+            loadUrl = intent.getStringExtra(LINK_URL)
         }
     }
 

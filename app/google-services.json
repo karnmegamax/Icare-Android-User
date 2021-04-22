@@ -1,42 +1,34 @@
 {
   "project_info": {
-    "project_number": "83734797857",
-    "firebase_url": "https://intely-3a60b.firebaseio.com",
-    "project_id": "intely-3a60b",
-    "storage_bucket": "intely-3a60b.appspot.com"
+    "project_number": "758489527194",
+    "firebase_url": "https://smartapp-5fa18.firebaseio.com",
+    "project_id": "smartapp-5fa18",
+    "storage_bucket": "smartapp-5fa18.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:83734797857:android:ed5be2145bb36669b08d60",
+        "mobilesdk_app_id": "1:758489527194:android:ee27a3bc3b9da2109cc023",
         "android_client_info": {
-          "package_name": "com.intely"
+          "package_name": "com.consultantapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "83734797857-nkn78mi530ih7t9m1odlmqfcpjqrg2lo.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.intely",
-            "certificate_hash": "254c3ddba79b66293742b97181d2c21318648ff6"
-          }
-        },
-        {
-          "client_id": "83734797857-1qpbavrolkkevfvfb7mtjoakb4lf3lcc.apps.googleusercontent.com",
+          "client_id": "758489527194-t5cr18j7bdk9p09s6e1ikuois2so77vg.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBxwRzUvnbtTjNc8DURP4l4auJWsmrr7Bk"
+          "current_key": "AIzaSyDJt8gsXPTsBaAhdd0zoco4wlWh_wb_0BQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "83734797857-1qpbavrolkkevfvfb7mtjoakb4lf3lcc.apps.googleusercontent.com",
+              "client_id": "758489527194-t5cr18j7bdk9p09s6e1ikuois2so77vg.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -45,27 +37,27 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:83734797857:android:71ec1ebb61e3d26ab08d60",
+        "mobilesdk_app_id": "1:758489527194:android:6139b031f16b24bc9cc023",
         "android_client_info": {
-          "package_name": "com.intely.nurse"
+          "package_name": "com.enggbaba.smartapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "83734797857-1qpbavrolkkevfvfb7mtjoakb4lf3lcc.apps.googleusercontent.com",
+          "client_id": "758489527194-t5cr18j7bdk9p09s6e1ikuois2so77vg.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBxwRzUvnbtTjNc8DURP4l4auJWsmrr7Bk"
+          "current_key": "AIzaSyDJt8gsXPTsBaAhdd0zoco4wlWh_wb_0BQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "83734797857-1qpbavrolkkevfvfb7mtjoakb4lf3lcc.apps.googleusercontent.com",
+              "client_id": "758489527194-t5cr18j7bdk9p09s6e1ikuois2so77vg.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

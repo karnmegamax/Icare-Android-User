@@ -137,9 +137,9 @@ object DeepLink {
 }
 
 object PageLink {
-    const val TERMS_CONDITIONS = "terms-conditions"
-    const val PRIVACY_POLICY = "privacy-policy"
-    const val CONTACT_US = "contact-us"
+    const val TERMS_CONDITIONS = "http://icare.megamaxservices.com/terms-conditions"
+    const val PRIVACY_POLICY = "http://icare.megamaxservices.com/privacy-policy"
+    const val CONTACT_US = "http://icare.megamaxservices.com/contact-us"
 }
 
 object CustomFields {
